@@ -131,4 +131,4 @@ dbt test
 
 
 ### Source:
-    - Quickstart fort dbt Bigquery: https://docs.getdbt.com/guides/bigquery
+    - Quickstart for dbt Bigquery: https://docs.getdbt.com/guides/bigquery
